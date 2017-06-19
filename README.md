@@ -1,6 +1,7 @@
 
+# React Native Authentication
 
-React Native Authentication ![cbs7](https://user-images.githubusercontent.com/19367266/27275309-cf926902-54a4-11e7-828e-741209233079.png)
+               ![cbs7](https://user-images.githubusercontent.com/19367266/27275309-cf926902-54a4-11e7-828e-741209233079.png)
 
 ##### Technologies used:
 
@@ -9,7 +10,7 @@ React Native Authentication ![cbs7](https://user-images.githubusercontent.com/19
 
 ### Note
 
-* Although you are free to use this application as you wish, we appreciate shout outs or linking back to our codebits website  https://www.creativebitstudio.com/codebits
+* Although you are free to use this application as you wish, we appreciate giving credit to the author or linking back to our codebits website page https://www.creativebitstudio.com/codebits
 
 ### Authors
 
